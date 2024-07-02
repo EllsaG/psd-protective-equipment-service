@@ -1,0 +1,3 @@
+delete
+from protective_equipment_selection
+where protective_equipment_selection_id >0;
